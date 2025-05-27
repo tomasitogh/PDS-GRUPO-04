@@ -1,0 +1,17 @@
+# Archivos de compilación
+*.class
+
+# Carpetas del IDE
+.idea/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+
+# Build de Maven o Gradle
+target/
+bin/
+out/
+
+# Archivos de entorno
+*.log
