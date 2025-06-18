@@ -1,3 +1,5 @@
+import usuarios.Usuario;
+
 public class SistemaPedidos {
     private GestorUsuarios gestorUsuarios = new GestorUsuarios();
     private GestorVehiculosYPedidos gestorVehiculosYPedidos = new GestorVehiculosYPedidos();

@@ -1,3 +1,5 @@
+import usuarios.Usuario;
+
 public class GestorUsuarios {
     private List<Usuario> usuarios = new ArrayList<>();
     private List<Cliente> clientes = new ArrayList<>();
