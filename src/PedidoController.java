@@ -1,3 +1,5 @@
+import formaDePago.FormaDePago;
+
 public class PedidoController {
     private PedidoValidador validador;
     private CalcularCostoFinal costoFinal;

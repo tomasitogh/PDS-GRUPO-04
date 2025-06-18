@@ -1,3 +1,5 @@
+import formaDePago.FormaDePago;
+
 import java.util.ArrayList;
 import java.util.List;
 public class PedidoCompra implements IFacturable{
