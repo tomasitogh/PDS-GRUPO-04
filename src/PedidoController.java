@@ -1,4 +1,5 @@
 import formaDePago.FormaDePago;
+import usuarios.Cliente;
 import usuarios.Vendedor;
 
 public class PedidoController {

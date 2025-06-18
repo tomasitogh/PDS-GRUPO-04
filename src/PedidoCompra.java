@@ -1,4 +1,5 @@
 import formaDePago.FormaDePago;
+import usuarios.Cliente;
 import usuarios.Vendedor;
 
 import java.util.ArrayList;

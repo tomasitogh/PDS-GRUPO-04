@@ -1,3 +1,5 @@
+import usuarios.Cliente;
+
 public class GestorVehiculosYPedidos {
     private List<PedidoCompra> pedidos = new ArrayList<>();
     private CatalogoVehiculos catalogoVehiculos;

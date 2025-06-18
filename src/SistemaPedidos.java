@@ -1,3 +1,4 @@
+import usuarios.Cliente;
 import usuarios.Usuario;
 
 public class SistemaPedidos {
